@@ -83,6 +83,14 @@ func main() {
 
 ---
 
+## 🧑‍💻 Author
+
+**Wahyu Primadi**  
+📧 [saya@wahyuprimadi.com](mailto:saya@wahyuprimadi.com)  
+🌐 [https://wahyuprimadi.com](https://wahyuprimadi.com)
+
+---
+
 ## 📋 License
 
 MIT License. See LICENSE for details.
