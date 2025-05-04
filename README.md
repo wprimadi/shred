@@ -8,6 +8,14 @@
 
 ---
 
+## 🧠 Background
+
+This project was born out of both my personal and professional commitment to data security and privacy. I created SHRED (Secure High-level Removal & Erasure Drivers) to provide a reliable and standards-based approach to secure file deletion.
+
+On a personal note, I even named my third son `Gutmann Alvarendra Primadi`, inspired by the `Gutmann method`, a highly respected and comprehensive algorithm in the world of data sanitization. This isn’t just a technical topic for me; it reflects how deeply I value strong, irreversible data protection and secure digital practices.
+
+---
+
 ## ✨ Features
 
 - ✅ Multiple secure deletion algorithms
@@ -72,14 +80,6 @@ func main() {
 - `zero-fill`
 - `one-fill`
 - `cryptographic-erase`
-
----
-
-## 🧠 Background
-
-This project was born out of both my personal and professional commitment to data security and privacy. I created SHRED (Secure High-level Removal & Erasure Drivers) to provide a reliable and standards-based approach to secure file deletion.
-
-On a personal note, I even named my third son `Gutmann Alvarendra Primadi`, inspired by the `Gutmann method`, a highly respected and comprehensive algorithm in the world of data sanitization. This isn’t just a technical topic for me; it reflects how deeply I value strong, irreversible data protection and secure digital practices.
 
 ---
 
