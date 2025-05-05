@@ -82,6 +82,18 @@ func main() {
 
 ---
 
+## ✅ Verification & Testing
+
+This library has been tested to ensure that files securely deleted using SHRED cannot be recovered using common and professional-grade data recovery tools. The following software and services were used during testing:
+
+- GetDataBack (Runtime Software)
+- Wondershare Recoverit
+- Seagate Rescue Data Recovery Services
+
+All tests confirmed that files shredded with any of the supported algorithms especially Gutmann, DoD 5220.22-M (ECE), and Cryptographic Erase were rendered completely unrecoverable. These results provide an additional level of confidence in SHRED’s ability to perform irreversible data destruction.
+
+---
+
 ## 🧑‍💻 Author
 
 **Wahyu Primadi**  
