@@ -20,7 +20,6 @@ On a personal note, I even named my third son `Gutmann Alvarendra Primadi`, insp
 
 - ✅ Multiple secure deletion algorithms
 - ✅ Simple and consistent API
-- ✅ Follows Go best practices and SonarQube compliance
 - ✅ Suitable for integration into CLI tools, backend services, or DevSecOps workflows
 
 ---
